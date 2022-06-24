@@ -1,1 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <Bug_summary>"What? Where? When?"</Bug_summary>
+  <Severity>Trivial</Severity>
+  <Steps_to_reproduce>1. ... 2. ...</Steps_to_reproduce>
+  <Actual_Result>Fail</Actual_Result>
+  <Expected_Result>Done</Expected_Result>
+ </root>
 
